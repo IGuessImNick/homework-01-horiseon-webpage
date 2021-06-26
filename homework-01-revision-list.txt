@@ -1,0 +1,16 @@
+HTML_______________
+> added spaces between divs for better visibility
+> replaced 'website' with 'Horiseon' in <title> LINE 7
+> 'Search Engine Optimization' link updated with ID to ensure working properly LINE 31
+> updated copyright to 2021 LINE 88
+> added alt descriptions to each image
+	> did not know how to add an alt description to an image being rendered through CSS 'background-image' so I left that one out
+
+
+
+CSS________________
+> changed color of <span> 'seo' element for visibility
+> rearranged organization of classes to follow sematic flow of website
+	> header -> background image -> left cards -> right cards -> footer
+
+https://iguessimnick.github.io/homework-01-horiseon-webpage/
